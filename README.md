@@ -3,7 +3,7 @@
 R code and data for:
 
 > Hassanizadeh, B., & Kenkel, P. (2026). County Level Grain Production Correlation and
-> Implications for Cooperative Mergers. *Journal of Cooperatives*, 42, 65–96.
+> Implications for Cooperative Mergers. *Journal of Cooperatives*, 42, 133–165.
 
 Grain cooperatives that merge across counties pool their production risk. The paper
 measures how correlated grain production is between Oklahoma and Kansas counties
